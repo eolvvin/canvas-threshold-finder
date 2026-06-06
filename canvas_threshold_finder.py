@@ -2,6 +2,8 @@
 SELF-ADJUSTING THRESHOLD FINDER
 Automatically finds critical R where bound states form with locked weights
 Uses binary search + adaptive parameter tuning
+Author: Edwin Ong
+Website: eolvvin.github.io
 """
 
 import numpy as np
